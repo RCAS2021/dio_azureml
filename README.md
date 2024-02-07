@@ -16,7 +16,7 @@
 2- Abri o ponto de extremidade predict-rentals.
 3- No ponto de extremidade predict-rentals, selecionei a aba "Testar".
 4- Em "Inserir dados para teste de ponto de extremidade", mudei o json de template por esse:
-'''JSON
+```JSON
 {
    "Inputs": { 
      "data": [
@@ -38,7 +38,7 @@
    },   
    "GlobalParameters": 1.0
 }
- '''
+```
  5- Cliquei no botão "Testar".
  6- Visualizei o resultado do teste.
 
